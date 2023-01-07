@@ -1,4 +1,4 @@
-# Task-02 @OASIS-Web Development
+# Task-01 @OIBGRIP-Web Development
 
 #### Task 1: Calculator
 #### Language used : HTML, CSS, Javascript
